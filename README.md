@@ -47,3 +47,4 @@ See `requirements.txt` for dependencies.
 
 
 
+# CircleCalc
