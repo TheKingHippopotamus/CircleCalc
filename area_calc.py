@@ -7,7 +7,7 @@ visualize circles with sectors, and create ASCII art representations of circles.
 """
 
 from math import pi, sqrt
-from circleCalc.matplot_visualize import visualize_circle
+from matplot_visualize import visualize_circle
 
 #pi = round(pi)
 
